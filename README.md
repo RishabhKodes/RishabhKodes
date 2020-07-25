@@ -37,8 +37,8 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
+<span><b><center>AWS</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/amazon-web-services.png"> 
 </td>
 </tr>
 
