@@ -9,7 +9,7 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RishabhKodes&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKodes&hide=CSS,HTML&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=RishabhKodes&show_icons=true&theme=highcontrast&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKodes&hide=CSS,HTML&theme=highcontrast">
 </p>
 
