@@ -5,7 +5,7 @@
 <hr>
 
 ### Hi 👋 
-I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for DevOps and Server Development 💻, some frameworks and softwares that I use to code are-
+I am Rishabh! A <b>Back-End Developer</b> :bulb: who thrives on JavaScript, with the love for DevOps and Server Development 💻, some frameworks and softwares that I use to code are-
 <br>
 <table>
 <tbody>
