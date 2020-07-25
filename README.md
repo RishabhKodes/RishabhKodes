@@ -21,7 +21,7 @@ I am Rishabh! A <b>Back-End Developer</b> :bulb: who thrives on JavaScript, with
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Microsoft Azure</center></b></span> 
+<span><b><center>Azure</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/48/000000/azure-1.png"> 
 </td>
 
