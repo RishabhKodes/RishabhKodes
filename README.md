@@ -32,7 +32,7 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<span><b><center></center></b></span> 
 <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
@@ -56,7 +56,7 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<span><b><center></center></b></span> 
 <img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
 </td>
 </tr>
@@ -68,7 +68,7 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
+<span><b><center></center></b></span> 
 <img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
 
@@ -92,6 +92,10 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 <img height=65px src="https://img.icons8.com/color/48/000000/html-5.png"> 
 </td>
 
+<td align="center" width="20%">
+<span><b><center>Elasticsearch</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/elasticsearch.png"> 
+</td>
 
 </tr>
 
