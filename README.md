@@ -14,15 +14,15 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
+<span><b><center>Django</center></b></span> 
+<img height=60px src="https://img.icons8.com/ios/50/000000/django.png"> 
+</td>
+
+<td align="center" width="20%">
 <span><b><center>Docker</center></b></span> 
 <img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
 </tr>
-
-<td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios/50/000000/django.png"> 
-</td>
 
 <tr>
 <td align="center" width="20%">
