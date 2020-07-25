@@ -14,20 +14,21 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Django</center></b></span> 
-<img height=60px src="https://img.icons8.com/ios/50/000000/django.png"> 
+<span><b><center></center></b></span> 
+<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
+<span><b><center></center></b></span> 
+<img height=60px src="https://img.icons8.com/ios/50/000000/django.png"> 
 </td>
+
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
+<span><b><center>Go</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/golang.png"> 
 </td>
 
 <td align="center" width="20%">
