@@ -37,15 +37,15 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
+<span><b><center></center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/amazon-web-services.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
+<span><b><center>Digital Ocean</center></b></span> 
+<img height=65px src="https://img.icons8.com/windows/32/000000/digital-ocean.png"> 
 </td>
 
 <td align="center" width="20%">
