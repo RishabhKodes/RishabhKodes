@@ -49,8 +49,8 @@ I am Rishabh! A Back-End Developer who thrives on JavaScript, with the love for 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
+<span><b><center></center></b></span> 
+<img height=65px src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> 
 </td>
 
 
