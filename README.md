@@ -109,6 +109,6 @@ I am Rishabh! A <b>Back-End Developer</b> :bulb: who thrives on JavaScript, with
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RishabhKodes&show_icons=true&theme=highcontrast&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKodes&hide=html&theme=highcontrast">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKodes&layout=compact&hide=html&theme=highcontrast">
 </p>
 
