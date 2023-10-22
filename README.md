@@ -6,7 +6,7 @@
 <hr>
 
 ### Hi 👋 
-I am Rishabh! A <b>Software Developer</b> :bulb: with a love for DevOps and Server Development 💻, some frameworks and software that I use to create awesome stuff are-
+I'm Rishabh! A <b>Software Developer</b> :bulb: with a love for Backend, DevOps and Server Development 💻, some frameworks and software that I use to create awesome stuff are-
 <br>
 <table>
 <tbody>
