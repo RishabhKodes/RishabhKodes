@@ -108,8 +108,8 @@ I'm Rishabh! A <b>Software Developer</b> :bulb: with a love for Backend, DevOps 
 
 
 
-<p align = "center">
+<!-- <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=RishabhKodes&show_icons=true&theme=highcontrast&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKodes&hide=html&theme=highcontrast">
-</p>
+</p> -->
 
