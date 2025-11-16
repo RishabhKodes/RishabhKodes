@@ -6,7 +6,7 @@
 <hr>
 
 ### Hi 👋 
-I'm Rishabh! A <b>Software Developer</b> :bulb: who loves to create products. I'm always learning, always yearning.
+I'm Rishabh! A <b>Software Developer</b> :bulb: who loves to create products. Always learning, always yearning.
 <br>
 
 
